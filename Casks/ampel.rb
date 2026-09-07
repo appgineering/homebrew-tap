@@ -2,8 +2,7 @@ cask "ampel" do
   version "0.3.0"
   sha256 "09f26ef6ffd9ee66d35e72837033012d934bea9679f374fa02dd8523ae44142f"
 
-  url "https://github.com/appgineering/Ampel/releases/download/v#{version}/Ampel-#{version}.zip",
-      verified: "github.com/appgineering/Ampel/"
+  url "https://github.com/appgineering/Ampel/releases/download/v#{version}/Ampel-#{version}.zip"
   name "Ampel"
   desc "Menu bar traffic light for Claude Code sessions"
   homepage "https://github.com/appgineering/Ampel"
