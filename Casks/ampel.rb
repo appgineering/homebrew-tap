@@ -1,6 +1,6 @@
 cask "ampel" do
-  version "0.3.1"
-  sha256 "a47702377e1698cc623c97eb0d227e0629a6688f2a61a0f3b0dff6f6cbcb65ad"
+  version "0.3.2"
+  sha256 "ddc24aca0649ecdc427692c0c30296f76b18b2352f094d8c1553b4e06cac5d7a"
 
   url "https://github.com/appgineering/Ampel/releases/download/v#{version}/Ampel-#{version}.zip"
   name "Ampel"
